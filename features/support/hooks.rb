@@ -4,4 +4,5 @@ Before do
  @endereco = EndecoPage.new
  @pagamento = PagamentoPage.new
  @utils = UtilsPage.new
+ @pedidofinalizado = PedidoFinalizadoPage.new
 end

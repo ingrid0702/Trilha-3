@@ -1,0 +1,14 @@
+        # Elmentos da pagina de checkout
+
+        checkout_campo_email ="input[name='username']"
+        checkout_campo_nome = "input[name='firstname']"
+        checkout_campo_sobrenome = "input[name='lastname']"
+        checkout_campo_empresa = "input[name='company']"
+        checkout_campo_rua = "input[name='street[0]']"
+        checkout_campo_bairro = "input[name='street[1]']"
+        checkout_campo_complemento = "input[name='street[2]']"
+        checkout_campo_pais = "select[name='country_id'] option[value='BR']"
+        checkout_campo_estado = "select[name='region_id'] option[value='489']"
+        checkout_campo_cidade = "input[name='city']"
+        checkout_campo_telefone ="input[name='postcode']"
+    
